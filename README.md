@@ -1,0 +1,1 @@
+The Number Guessing Game is a simple command-line based game where the player attempts to guess a randomly generated number within a specified range. The game provides feedback on whether the guessed number is too high, too low, or correct. The goal is to guess the correct number with the fewest attempts.
